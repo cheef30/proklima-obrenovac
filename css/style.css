@@ -733,3 +733,4 @@ h2 .accent { font-size: 1.1em; line-height: .9; }
 @media (max-width: 960px) {
   .band::before { background: linear-gradient(180deg, rgba(10, 17, 28, .5) 0%, rgba(10, 17, 28, .8) 40%, rgba(10, 17, 28, .95) 100%), var(--noise); }
 }
+.svc-card .from .more { font-weight: 700; color: var(--blue); }
